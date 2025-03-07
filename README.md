@@ -7,9 +7,4 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=jumlid&show_icons=true&locale=en&layout=compact&theme=dark" 
         alt="jumli404 Top Languages" /> 
 </p>
-<p><img align="center"; 
-        src="https://github-readme-stats.vercel.app/api?username=jumlid&show_icons=true&locale=en&theme=dark"
-        alt="bruh" /></p>
-<p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jumlid&theme=dark" alt="ops" />
-</p>
+<img src="https://media3.giphy.com/media/PAkrtJgGaygxbXcV9r/giphy.gif?cid=6c09b952bnn751ufyv4p6aqgn5l3bjh974uhfgew0whl8msa&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" > </img>
