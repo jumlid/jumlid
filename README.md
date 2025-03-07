@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm jumli i'm a frontend dev and  i'm a lazy Self-Taught programmer </h1>
+<h1 align="center">Hi 👋, I'm jumli  i'm a lazy Self-Taught  frontend web dev  </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jumlid&label=Profile%20views&color=0e75b6&style=flat" alt="jumlid" /> </p>
 
