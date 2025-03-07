@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm jumli i'm a frontend dev  </h1>
-<h2 align="center"> and i'm a Self-Taught Dev <h2>
+<h1 align="center">Hi 👋, I'm jumli i'm a frontend dev and  i'm a lazy Self-Taught programmer </h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jumlid&label=Profile%20views&color=0e75b6&style=flat" alt="jumlid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jumlid" alt="bruuh" /></a> </p>
