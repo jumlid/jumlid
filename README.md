@@ -6,7 +6,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=jumlid&show_icons=true&locale=en&layout=compact&theme=dark" 
         alt="jumli404 Top Languages" /> 
 </p>
-<img src=" https://media3.giphy.com/media/t61vMoROK0qMv3dyer/giphy.gif?cid=6c09b952qvf7e9cyxm5ek57ijbubnvt34sh6mj0o2n7dna20&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"> </img>
+<img src="https://media3.giphy.com/media/t61vMoROK0qMv3dyer/giphy.gif?cid=6c09b952qvf7e9cyxm5ek57ijbubnvt34sh6mj0o2n7dna20&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"> </img>
 
 <h2>Technologies i have worked with</h2>
 
