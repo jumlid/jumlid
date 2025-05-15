@@ -8,7 +8,7 @@
 </p>
 <img height="400px" src="https://media3.giphy.com/media/t61vMoROK0qMv3dyer/giphy.gif?cid=6c09b952qvf7e9cyxm5ek57ijbubnvt34sh6mj0o2n7dna20&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"> </img>
 
-<h2>Technologies i have worked with</h2>
+<h2>Technologies i know</h2>
 
  <br>
 
@@ -23,9 +23,12 @@
 
 
  
+<h3>Currently Learning </h3>
+ <img width="100px" src="https://seekvectors.com/files/download/TYPE%20SCRIPT%20LOGO.png"></img>
+<img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"></img>
+<img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png"></img>
 
 
 
 
-<p>T_T Taking a break coz of my CUET exams </p>p
 
