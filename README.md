@@ -24,10 +24,11 @@
 
  
 <h3>Currently Learning </h3>
+<div style="display='flex"> 
  <img width="100px" src="https://seekvectors.com/files/download/TYPE%20SCRIPT%20LOGO.png"></img>
 <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"></img>
 <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png"></img>
-
+</div>
 
 
 
