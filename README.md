@@ -15,7 +15,7 @@
 
 
 
- <img width="100px" src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x1254-fc24w6ld.png"></img>
+ <img width="100px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png"></img>
 <img width="100px" src="https://files.raycast.com/g4bdf2ysm8hh9k906wuf7iv92f7x"></img>
 <img width="100px" src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--brand-company-business-brands-pack-logos-icons-2284965.png?f=webp"></img>
 <img width="100px" src="https://cdn.iconscout.com/icon/free/png-256/free-html-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-3030115.png?f=webp&w=256"></img>
@@ -23,12 +23,14 @@
 
 
  
-<h3>Currently Learning </h3>
+<h3>Currently Planing on Learning </h3>
 <div style="display='flex"> 
  <img width="100px" src="https://seekvectors.com/files/download/TYPE%20SCRIPT%20LOGO.png"></img>
 <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"></img>
 <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png"></img>
 </div>
+<br>
+<p>Aditional info: since i'm not a CS major i do Programming just out of curiosity and i can't do programmin  on regular basis :) <p>
 
 
 
