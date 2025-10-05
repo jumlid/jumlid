@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm jumli  a  Self-Taught  frontend web dev  </h1>
+<p>I'm currently pursuing my BA from GMC Basar. Although I'm not a CS Student, I enjoy programming as a hobby and  curiosity. I mostly work with vanilla JavaScript :)       <p>
 
 
 <p>
@@ -30,7 +31,7 @@
 <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png"></img>
 </div>
 <br>
-<p>Aditional info: since i'm not a CS major i do Programming just out of curiosity and i can't do programmin  on regular basis :) <p>
+
 
 
 
