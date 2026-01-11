@@ -3,9 +3,7 @@
 
 
 <p>
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=jumlid&show_icons=true&locale=en&layout=compact&theme=dark" 
-        alt="jumli404 Top Languages" /> 
+  <a href="https://wakatime.com/@dc1225cc-b806-47c5-a2df-76f50a821d4e"><img src="https://wakatime.com/badge/user/dc1225cc-b806-47c5-a2df-76f50a821d4e.svg" alt="Total time coded since Dec 18 2025" /></a>
 </p>
 <img height="400px" src="https://media.tenor.com/j8dwT9wdyc8AAAAi/evernight-anime.gif"> </img>
 
