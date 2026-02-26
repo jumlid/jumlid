@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm jumli  a  Self-Taught  frontend web dev  </h1>
-<p>I'm currently pursuing my BA from GMC Basar. Although I'm not a CS Student, I enjoy programming as a hobby and  curiosity. I mostly work with vanilla JavaScript :)       <p>
+<h1 align="center">Hi 👋, I'm jumli Doyom </h1>
+<p> I'm currently pursuing my BA at Government Model College, Basar, AP, majoring in English. Although my degree isn't related to CS or tech, my interest in technology grew after starting college. From learning about low-level system architecture to networking, I found myself exploring tech topics outside my coursework. Previously, I had no experience with technology, so my early code and repositories may seem basic, but I'm consistently working to improve them. I rely on GPT, YouTube, and various articles to learn. Mostly, I use vanilla JavaScript for web applications—not because I prefer it, but due to limited time for learning frameworks like React. Still, I'm making efforts to expand my skills.   <p>
 
 
 <p>
